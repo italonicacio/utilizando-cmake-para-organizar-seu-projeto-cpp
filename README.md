@@ -221,4 +221,4 @@ E no terminal quando executar o comando do CMake, basta colocar *-Dtesting_enabl
 cmake ../ -Dtesting_enabled=True 
 ```
 --------
-**Repositório com o código:** <https://github.com/italonicacio/utilizando-cmake-para-organizar-seu-projeto-cpp>
+**Repositório com o código:** <https://github.com/italonicacio/utilizando-cmake-para-organizar-seu-projeto-cpp/tree/main/project>
